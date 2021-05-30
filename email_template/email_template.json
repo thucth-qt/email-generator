@@ -1,0 +1,6 @@
+{
+    "from": "The Marketing team <marketing@example.com>",
+    "subject":"A new product is beign launhed soon...",
+    "mimeType":"text/plain",
+    "body":"Hi {{TITLE}} {{FIRST_NAME}},\tToday, {{TODAY}}, we would like to tell you that... Sincerely,\nThe Marketing Team"
+}
